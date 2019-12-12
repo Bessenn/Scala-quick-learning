@@ -20,5 +20,5 @@ src/com/bessen/
 +--chapter12/                 泛型
 ```
 
-## Scala博客地址：
+## CSDN博客文档：
 [https://blog.csdn.net/Bessenn/article/details/103393664](https://blog.csdn.net/Bessenn/article/details/103393664)
