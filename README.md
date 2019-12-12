@@ -7,7 +7,7 @@
 
 ## 源码目录结构
 ```
-scala/src/com/bessen/
+src/com/bessen/
 +--chapter01/                 Hello Word程序实例
 +--chapter02/                 Scala变量、数据类型、字符串插值
 +--chapter03/                 运算符、标准输入
